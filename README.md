@@ -6,5 +6,5 @@
 - 🤔 I’m open to a full-time Junior/Internship Role
 - 💬 Ask me about: Sexual And Reproductive Health, Pharmaceutical Sales and Marketing
 - 📫 How to reach me: Email - logon2jubril@gmail.com, Twitter - @JbOsunlana Instagram - @JbOsublana
-- ⚡ Fun fact: Aside coding, I'm a Freelance Model and a part-time Brand Ambasador
+- ⚡ Fun fact: Aside coding, I'm a Freelance Model and a part-time Brand Ambassador
 
