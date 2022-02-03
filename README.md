@@ -1,8 +1,4 @@
-### Transitioned into Tech from Public Health Looking to dive into Software Development and Mobile App Development👋
-
-**JbOsunlana/JbOsunlana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+### Transitioned into Tech from Public Health Looking to dive into Software Development and Mobile App Development
 
 - 🔭 I’m currently working on my portfolio website, creating more projects and staying fit.
 - 🌱 I’m currently learning SQL, React Native at the moment
