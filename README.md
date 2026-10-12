@@ -1,8 +1,8 @@
 ### 👋 Hi, I'm Jubril Osunlana
 
-**Product Operations | Product Management | HealthTech | Digital Product Development**
+** Product Management | HealthTech | Digital Product Development**
 
-I'm a Product Operations professional with experience in building, managing, and delivering digital products across healthcare technology, ERP systems, and B2B e-commerce. I work closely with cross-functional teams to translate business needs into actionable product requirements, streamline operations, and deliver solutions that solve real-world problems.
+I'm a Product Manager professional with experience in building, managing, and delivering digital products across healthcare technology, ERP systems, and B2B e-commerce. I work closely with cross-functional teams to translate business needs into actionable product requirements, streamline operations, and deliver solutions that solve real-world problems.
 
 My background in pharmaceutical sales and healthcare gives me a unique perspective on customer needs, business operations, and technology-driven innovation.
 
